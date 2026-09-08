@@ -1,7 +1,4 @@
-# comp2040-cpp-graphics-systems
-C++/SFML projects covering 2D graphics, recursive algorithms, dynamic programming, and design patterns (Factory, Composite)
-
-Graphics & Systems Projects (C++ / SFML)
+#Graphics & Systems Projects (C++ / SFML)
 
 A collection of C++ projects built for a systems/graphics programming course, covering 2D rendering, recursive algorithms, dynamic programming, design patterns, and text-based log parsing. Each project includes unit tests (Boost.Test) and a Makefile build.
 
